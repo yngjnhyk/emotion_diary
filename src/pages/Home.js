@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import { useState } from 'react';
 
 import MyHeader from './../components/MyHeader';
@@ -27,10 +26,6 @@ const Home = () => {
       />
     </div>
   );
-=======
-const Home = () => {
-  return <div>Home</div>;
->>>>>>> c0d9b71296f63f9eafa7db7e6f722c1bccf10e33
 };
 
 export default Home;
